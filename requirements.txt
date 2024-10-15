@@ -1,0 +1,5 @@
+Python 3.7+
+Selenium
+pandas
+pysftp
+openpyxl
